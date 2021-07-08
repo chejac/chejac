@@ -17,3 +17,18 @@
 -->
 
 ### 🛠 &nbsp; Tech Stack
+- 💻 &nbsp; Java | JavaScript | Python
+- 🌐 &nbsp; HTML | CSS | Bootstrap | React.js
+- 🏭 &nbsp; Spring | JUnit
+- 🛢 &nbsp; SQL
+- 🔧 &nbsp; Git | Eclipse | PyCharm | Heroku
+- 🖥 &nbsp; Figma
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/chejac">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chejac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chejac&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
