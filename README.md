@@ -19,9 +19,9 @@
 ### 🛠 &nbsp; Tech Stack
 - 💻 &nbsp; Java | JavaScript | Python
 - 🌐 &nbsp; HTML | CSS | Bootstrap | React.js
-- 🏭 &nbsp; Spring | JUnit
+- 🏭 &nbsp; Spring | JUnit | Mockito
 - 🛢 &nbsp; SQL
-- 🔧 &nbsp; Git | Eclipse | PyCharm | Heroku
+- 🔧 &nbsp; Git | Maven | Tomcat | Eclipse | PyCharm | Heroku
 - 🖥 &nbsp; Figma
 
 ### ⚙️ &nbsp;GitHub Analytics
