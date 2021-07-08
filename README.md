@@ -27,8 +27,15 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/chejac">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chejac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chejac&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/chejac">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=chejac&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chejac&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/chejac"><img alt="LinkedIn" src="https://img.shields.io/badge/-Jack%20Chen-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:chejac@sas.upenn.edu"><img alt="Email" src="https://img.shields.io/badge/-chejac@sas.upenn.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
