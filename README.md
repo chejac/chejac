@@ -17,12 +17,13 @@
 -->
 
 ### 🛠 &nbsp; Tech Stack
-- 💻 &nbsp; Java | JavaScript | Python
+- 🖥️ &nbsp; Java | JavaScript | Python
 - 🌐 &nbsp; HTML | CSS | Bootstrap | React.js
 - 🏭 &nbsp; Spring | JUnit | Mockito
 - 🛢 &nbsp; SQL
-- 🔧 &nbsp; Git | Maven | Tomcat | Eclipse | PyCharm | Heroku
-- 🖥 &nbsp; Figma
+- 🔧 &nbsp; Git | Maven | Tomcat | Heroku
+- 🔨 &nbsp; Eclipse | Visual Studio Code | PyCharm
+- 📝 &nbsp; Figma
 
 ### ⚙️ &nbsp;GitHub Analytics
 
